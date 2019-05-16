@@ -36,6 +36,11 @@ public class Snake {
 	// returns true if the length of this snake is
 	// less than the given cage length
 	public boolean fitsInCage(int cageLength) {
+		int cageLength =100;
 		return this.length < cageLength;
+		for(this.lenght = 10;,this.length<cageLength,this.length++);
+		System.out.Println("snake fits in cage")
+		else( "snake doesnt fit");
+	}
 	}
 }
