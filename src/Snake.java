@@ -1,3 +1,6 @@
+// Pardeep Kaur 
+//student id c0737369
+
 public class Snake {
 	private String name;
 	private int length; // the length of the boa, in feet
@@ -10,7 +13,7 @@ public class Snake {
 	 * @param length		length of the snake
 	 * @param favoriteFood	what the snake likes to eat
 	 */
-	public Snake(String name, int length, String favoriteFood) {
+	public Snake(String name , int length, String favoriteFood) {
 		this.name = name;
 		this.length = length;
 		this.favoriteFood = favoriteFood;
